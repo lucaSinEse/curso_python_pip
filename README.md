@@ -14,4 +14,5 @@ python3 -m venv env
 source env/Scripts/activate
 pip3 install -r requirements.txt
 python3 main.py
+a
 ```
